@@ -6,13 +6,13 @@
 
   <groupId>com.servletapp</groupId>
 
-  <artifactId>jspservlet-app-ATM</artifactId>
+  <artifactId>jspservlet-app-bmi-calculator</artifactId>
 
   <packaging>war</packaging>
 
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>jspservlet-app-ATM Maven Webapp</name>
+  <name>jjspservlet-app-bmi-calculator Maven Webapp</name>
 
   <url>http://maven.apache.org</url>
 
