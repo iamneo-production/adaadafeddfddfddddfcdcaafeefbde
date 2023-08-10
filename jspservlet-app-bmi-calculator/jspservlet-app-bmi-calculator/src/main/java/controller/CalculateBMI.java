@@ -3,10 +3,6 @@ package controller;
  
   public class CalculateBMI {
 
- 
-
-   
-
         public static double calculate(double height, double weight) {
 
             double bmi = weight / ((height / 100) * (height / 100));
@@ -14,8 +10,6 @@ package controller;
             return Math.round(bmi * 100.0) / 100.0;
 
         }
-
-       
 
         public static String description(double B) {
 
@@ -40,7 +34,7 @@ package controller;
                 return "Extremely Obese";
 
             }
-
-        }  
+		}
+	}
 
 }
