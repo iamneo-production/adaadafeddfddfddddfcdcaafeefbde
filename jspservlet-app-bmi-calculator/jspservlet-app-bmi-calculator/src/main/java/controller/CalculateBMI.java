@@ -1,12 +1,9 @@
 package controller;
 
  
-
-public class CalculateBMI {
+  public class CalculateBMI {
 
  
-
-    //Enter the code here....
 
    
 
@@ -44,6 +41,6 @@ public class CalculateBMI {
 
             }
 
-        }  
+        }  
 
 }
